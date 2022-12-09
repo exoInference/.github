@@ -1,1 +1,1 @@
-# Welcome to the exoInferene organization.
+# Welcome to the exoInference organization.
